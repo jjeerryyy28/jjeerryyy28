@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jjeerryyy28
+- 👋 Hi, I’m Prajwal
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Advance Java along with html and css
+- 🌱 I’m currently learning html, css and JavaScript
 - 📫 How to reach me - follow on me linkedin - https://www.linkedin.com/in/prajwalnikhar/
 
 <!---
