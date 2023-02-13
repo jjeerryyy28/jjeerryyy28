@@ -19,7 +19,7 @@ hi, I'm Prajwal Nikhar, a passionate full stack web developer. My passion for so
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="512px" />
+https://random-memer-production-9f0d.up.railway.app/
 
 ---
 <a href="https://visitcount.itsvg.in">
