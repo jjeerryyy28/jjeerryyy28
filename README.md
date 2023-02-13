@@ -12,6 +12,9 @@ hi, I'm Prajwal Nikhar, a passionate full stack web developer. My passion for so
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jjeerryyy28&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeerryyy28&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Waka-time stats:
+<figure><embed src="https://wakatime.com/share/@c1a97f4b-c71b-4c18-8694-ef3e989be7f5/921db184-ffc0-41f8-ba3d-ab71947fbd95.svg"></embed></figure>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
