@@ -19,10 +19,12 @@ hi, I'm Prajwal Nikhar, a passionate full stack web developer. My passion for so
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="512px" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jjerryyy28&label=Profile%20Views&icon=9&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=jjerryyy28&label=Profile%20Views&icon=9&pretty=false" />
+</a>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/prajwalnikhar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PrajwalNikhar) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/prajwalnikhar) 
