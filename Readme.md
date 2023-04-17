@@ -38,3 +38,7 @@
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/prajwalnikhar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="prajwalnikhar" /></a></p><br><br> -->
+
+
+PL/SQL study material for Elevate Wings1 exam:
+<p align="left"> <a href="topmate.io/prajwal_nikhar?utm_source=topmate&utm_medium=popup&utm_campaign=SocialProfile" target="_blank" rel="noreferrer">
