@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prajwalnikhar1@gmail.com**
 
-- 📄 You will find my CV here 👉 https://bit.ly/PrajwalNikhar_CV 
+- 📄 You will find my CV here 👉 [https://bit.ly/PrajwalNikhar_CV ](https://www.linkedin.com/in/prajwalnikhar/overlay/1635536209187/single-media-viewer?type=DOCUMENT&profileId=ACoAADWH4_0BwGVwlUstHzzxQ290_bSF0JbY1GY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZcrpE0BIRfag9%2BUoR2oEKA%3D%3D)
 
 - ⚡ Fun fact **I think I am funny**
 
