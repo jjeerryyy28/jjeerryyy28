@@ -1,41 +1,27 @@
-<h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">A passionate frontend developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<br><br> i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
+<h1 align="center">Hi 👋, I'm Prajwal Nikhar</h1>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjeerryyy28&label=Profile%20views&color=0e75b6&style=flat" alt="jjeerryyy28" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjeerryyy28" alt="jjeerryyy28" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjeerryyy28&label=Profile%20views&color=0e75b6&style=flat" alt="devdoodlezone" /> </p>
 
-- 🌱 I’m currently learning **MySQL and ORM, Cloud Computing**
+- 👨‍💻 All of my projects are available at my [Portfolio](https://prajwal-nikhar-portfolio.netlify.app/)
 
-- 📫 How to reach me **prajwalnikhar1@gmail.com**
-
-- 📄 You will find my CV here 👉 [https://bit.ly/PrajwalNikhar_CV ](https://www.linkedin.com/in/prajwalnikhar/overlay/1635536209187/single-media-viewer?type=DOCUMENT&profileId=ACoAADWH4_0BwGVwlUstHzzxQ290_bSF0JbY1GY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZcrpE0BIRfag9%2BUoR2oEKA%3D%3D)
-
-- ⚡ Fun fact **I think I am funny**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjeerryyy28&show_icons=true&locale=en&layout=compact" alt="jjeerryyy28" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjeerryyy28&" alt="jjeerryyy28" /></p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact: **I love to watch horror films, but I never sleep alone after that.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/jjeerryyy28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jjeerryyy28" height="30" width="40" /></a>
-<a href="https://dev.to/jjeerryyy28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jjeerryyy28" height="30" width="40" /></a>
-<a href="https://leetcode.com/prajwal_nikhar/" target="blank"><image align="center" src="https://github.com/jjeerryyy28/HTML/blob/main/image-removebg-preview.png" alt="prajwal_nikhar" height="30" width="70"/></a>
-<a href="https://linkedin.com/in/prajwalnikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwalnikhar" height="30" width="40" /></a>
-<a href="https://instagram.com/_prajwal_nikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prajwal_nikhar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prajwalnikhar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajwalnikhar1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prajwal_nikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajwal_nikhar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prajwalnikhar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prajwalnikhar1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prajwalnikhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwalnikhar" height="30" width="40" /></a>
+<a href="https://instagram.com/devdoodlezone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dev-Doodle-Zone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/prajwalnikhar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="prajwalnikhar" /></a></p><br><br> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeerryyy28&layout=compact)
 
+![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeerryyy28&show_icons=true&theme=radical)
+
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjeerryyy28&show_icons=true&locale=en" alt="jjeerryyy28" /></p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjeerryyy28&" alt="jjeerryyy28" /></p>
